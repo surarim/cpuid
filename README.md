@@ -1,3 +1,5 @@
 # Utilites
-cpuid.pas - Show CPU Feature Bits<br>
-passwd.pas - Enter string in ivisible mode
+cpuid.pas - Показать расширения процессора<br>
+passwd.pas - Ввод строки в скрытом режиме
+<hr>
+Протестировано на Free Pascal 3.2.2
